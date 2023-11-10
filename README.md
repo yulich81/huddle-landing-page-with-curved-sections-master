@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/yulich81/huddle-landing-page-with-curved-sections-master)
+- Live Site URL: [Netlify](https://calm-rabanadas-bc10ef.netlify.app/)
 
 ## My process
 
